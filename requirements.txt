@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+pywin32>=305
+Pillow>=9.5.0
